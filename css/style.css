@@ -28,7 +28,7 @@ main {
   width: 53%;
 }
 
-.graphic {
+header {
   width: 48%;
   border-top-right-radius: 10px;
   border-bottom-right-radius: 10px;
@@ -150,7 +150,7 @@ main {
     margin-right: 0;
     margin-bottom: 2rem;
   }
-  .graphic {
+  header {
     width: 100%;
     height: 247px;
     border-top-right-radius: 10px;
